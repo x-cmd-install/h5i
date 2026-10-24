@@ -14,7 +14,7 @@ x install h5i
 
 ## Code insight
 
-Total: **166,943** lines of code across **371** files in the top 5 languages.
+Total: **166,951** lines of code across **371** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -42,18 +42,18 @@ Total: **166,943** lines of code across **371** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 42 · **Merged PRs**: 594 · **Open PRs**: 0 · **Closed issues**: 118 · **Open issues**: 14 · **Commits**: 751
+- **Releases**: 42 · **Merged PRs**: 598 · **Open PRs**: 0 · **Closed issues**: 118 · **Open issues**: 14 · **Commits**: 755
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 6 | 88 | 0 | 0 | 6 | 0 |
-| last60d | 2026-08-24 | 15 | 192 | 0 | 10 | 9 | 0 |
-| 90d | 2026-07-25 | 21 | 295 | 0 | 63 | 14 | 0 |
-| last180d | 2026-04-26 | 40 | 521 | 0 | 118 | 14 | 0 |
-| 360d | 2025-10-28 | 42 | 594 | 0 | 118 | 14 | 0 |
-| last720d | 2024-11-02 | 42 | 594 | 0 | 118 | 14 | 751 |
+| 30d | 2026-09-24 | 6 | 90 | 0 | 0 | 6 | 89 |
+| last60d | 2026-08-25 | 15 | 195 | 0 | 10 | 9 | 327 |
+| 90d | 2026-07-26 | 21 | 297 | 0 | 63 | 14 | 432 |
+| last180d | 2026-04-27 | 39 | 525 | 0 | 118 | 14 | 660 |
+| 360d | 2025-10-29 | 42 | 598 | 0 | 118 | 14 | 738 |
+| last720d | 2024-11-03 | 42 | 598 | 0 | 118 | 14 | 755 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for h5i lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T03:07:13Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:43:13Z._
