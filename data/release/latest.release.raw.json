@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 1878639,
       "digest": "sha256:254c06f91effbd9b33d2c28d245feb0a1d772ee196cf270bf2ace1286c243e0f",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-10-20T11:53:50Z",
       "updated_at": "2026-10-20T11:53:50Z",
       "browser_download_url": "https://github.com/h5i-dev/h5i/releases/download/v0.5.1/h5i-test-v0.5.1-x86_64-unknown-linux-musl.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 11548711,
       "digest": "sha256:09e98fe970477966ee492a94d52932412854906908104dbbc8ed5b599288abd3",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-10-20T11:53:50Z",
       "updated_at": "2026-10-20T11:53:51Z",
       "browser_download_url": "https://github.com/h5i-dev/h5i/releases/download/v0.5.1/h5i-v0.5.1-aarch64-apple-darwin.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 105,
       "digest": "sha256:e39b6db1b6f4de98540b325d55109821b81ee50dc7abd8f758a586ec1493bd9c",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-10-20T11:53:50Z",
       "updated_at": "2026-10-20T11:53:50Z",
       "browser_download_url": "https://github.com/h5i-dev/h5i/releases/download/v0.5.1/h5i-v0.5.1-aarch64-apple-darwin.tar.gz.sha256"
