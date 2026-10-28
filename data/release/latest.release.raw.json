@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 2105529,
       "digest": "sha256:2e7b7823decc9f0de21689e781d8e7d75ec92fa481d2e9a4d7105334bd7e0530",
-      "download_count": 4,
+      "download_count": 7,
       "created_at": "2026-10-20T11:53:50Z",
       "updated_at": "2026-10-20T11:53:50Z",
       "browser_download_url": "https://github.com/h5i-dev/h5i/releases/download/v0.5.1/h5i-recon-v0.5.1-x86_64-unknown-linux-musl.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 116,
       "digest": "sha256:bb31087e6d2275c55b63de5e3cb87150f042ddb87459584e6a27797093e80472",
-      "download_count": 4,
+      "download_count": 7,
       "created_at": "2026-10-20T11:53:50Z",
       "updated_at": "2026-10-20T11:53:50Z",
       "browser_download_url": "https://github.com/h5i-dev/h5i/releases/download/v0.5.1/h5i-recon-v0.5.1-x86_64-unknown-linux-musl.tar.gz.sha256"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 3070334,
       "digest": "sha256:ee8d433d84b519f4eac0aa97693e1e7f5446fe6587af7aa6a405bcf4b3462911",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-10-20T11:53:50Z",
       "updated_at": "2026-10-20T11:53:50Z",
       "browser_download_url": "https://github.com/h5i-dev/h5i/releases/download/v0.5.1/h5i-test-v0.5.1-x86_64-pc-windows-msvc.zip"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 1878639,
       "digest": "sha256:254c06f91effbd9b33d2c28d245feb0a1d772ee196cf270bf2ace1286c243e0f",
-      "download_count": 10,
+      "download_count": 14,
       "created_at": "2026-10-20T11:53:50Z",
       "updated_at": "2026-10-20T11:53:50Z",
       "browser_download_url": "https://github.com/h5i-dev/h5i/releases/download/v0.5.1/h5i-test-v0.5.1-x86_64-unknown-linux-musl.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 115,
       "digest": "sha256:68ccfebeadbb6a93b995aa7e86a66dfd887f7e251a070a36327e0966d89e8aed",
-      "download_count": 6,
+      "download_count": 9,
       "created_at": "2026-10-20T11:53:50Z",
       "updated_at": "2026-10-20T11:53:50Z",
       "browser_download_url": "https://github.com/h5i-dev/h5i/releases/download/v0.5.1/h5i-test-v0.5.1-x86_64-unknown-linux-musl.tar.gz.sha256"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 11547847,
       "digest": "sha256:d4af4cade7fdad05c87574d9a4ed6fa45bfd1fd69dc09fb741f2f5a2e02d16ea",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-10-20T11:53:50Z",
       "updated_at": "2026-10-20T11:53:51Z",
       "browser_download_url": "https://github.com/h5i-dev/h5i/releases/download/v0.5.1/h5i-v0.5.1-x86_64-pc-windows-msvc.zip"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 13369717,
       "digest": "sha256:9422caf31760cc893d774c2bf3ac8579ef62bda26882d3cef32c8d69821e6ce2",
-      "download_count": 7,
+      "download_count": 11,
       "created_at": "2026-10-20T11:53:50Z",
       "updated_at": "2026-10-20T11:53:51Z",
       "browser_download_url": "https://github.com/h5i-dev/h5i/releases/download/v0.5.1/h5i-v0.5.1-x86_64-unknown-linux-musl.tar.gz"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 110,
       "digest": "sha256:5c4998742cdf7ad5dea2e62010ae443f7e9ed555d4420498883135ea9e834844",
-      "download_count": 7,
+      "download_count": 11,
       "created_at": "2026-10-20T11:53:50Z",
       "updated_at": "2026-10-20T11:53:50Z",
       "browser_download_url": "https://github.com/h5i-dev/h5i/releases/download/v0.5.1/h5i-v0.5.1-x86_64-unknown-linux-musl.tar.gz.sha256"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 3236585,
       "digest": "sha256:7fed4fed1ddce572a9ba66a1718f855c492c144942dfa7b17954e2e44d1372ca",
-      "download_count": 4,
+      "download_count": 8,
       "created_at": "2026-10-20T11:53:50Z",
       "updated_at": "2026-10-20T11:53:50Z",
       "browser_download_url": "https://github.com/h5i-dev/h5i/releases/download/v0.5.1/h5i-websec-v0.5.1-x86_64-unknown-linux-musl.tar.gz"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 117,
       "digest": "sha256:58e00bad5fd4f3755b6bd7c3e7bb9502902df1e3d7ed0bd6edaf98b1e8018d70",
-      "download_count": 4,
+      "download_count": 8,
       "created_at": "2026-10-20T11:53:50Z",
       "updated_at": "2026-10-20T11:53:50Z",
       "browser_download_url": "https://github.com/h5i-dev/h5i/releases/download/v0.5.1/h5i-websec-v0.5.1-x86_64-unknown-linux-musl.tar.gz.sha256"
