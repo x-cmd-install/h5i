@@ -14,11 +14,11 @@ x install h5i
 
 ## 代码洞察
 
-合计: **173,866** 行代码（覆盖前 5 种语言、共 **387** 个文件）。
+合计: **173,961** 行代码（覆盖前 5 种语言、共 **387** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 106,948 | 8,443 | 9,417 | 234 |
+| Rust | 107,043 | 8,448 | 9,432 | 234 |
 | Lean | 28,259 | 5,157 | 3,848 | 109 |
 | Json | 12,248 | 0 | 0 | 21 |
 | Tsx | 6,454 | 238 | 261 | 16 |
@@ -32,65 +32,65 @@ x install h5i
 
 ## 发布
 
-- **最新版本**: `v0.5.1` (2026-10-20)
+- **最新版本**: `v0.5.2` (2026-10-29)
 - **最近提交**: 2026-10-29
 - **Release 含资产**: 32 个
 
 ## 流行度
 
-- **Star**: 885 · **Fork**: 76 · **开放 issue**: 132 · **贡献者**: 24
+- **Star**: 885 · **Fork**: 77 · **开放 issue**: 132 · **贡献者**: 25
 
 ## 累计统计
 
-- **发布数**: 42 · **已合并 PR**: 601 · **开放 PR**: 2 · **已关闭 issue**: 118 · **开放 issue**: 14 · **提交数**: 758
+- **发布数**: 43 · **已合并 PR**: 605 · **开放 PR**: 0 · **已关闭 issue**: 118 · **开放 issue**: 14 · **提交数**: 762
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 4 | 81 | 2 | 0 | 2 | 74 |
-| last60d | 2026-08-30 | 13 | 161 | 2 | 9 | 9 | 241 |
-| 90d | 2026-07-31 | 21 | 300 | 2 | 63 | 14 | 433 |
-| last180d | 2026-05-02 | 39 | 528 | 2 | 118 | 14 | 663 |
-| 360d | 2025-11-03 | 42 | 601 | 2 | 118 | 14 | 741 |
-| last720d | 2024-11-08 | 42 | 601 | 2 | 118 | 14 | 758 |
+| 30d | 2026-09-30 | 5 | 85 | 0 | 0 | 2 | 78 |
+| last60d | 2026-08-31 | 13 | 157 | 0 | 9 | 9 | 245 |
+| 90d | 2026-08-01 | 22 | 304 | 0 | 63 | 14 | 437 |
+| last180d | 2026-05-03 | 40 | 532 | 0 | 118 | 14 | 667 |
+| 360d | 2025-11-04 | 43 | 605 | 0 | 118 | 14 | 745 |
+| last720d | 2024-11-09 | 43 | 605 | 0 | 118 | 14 | 762 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [h5i-recon-v0.5.1-aarch64-apple-darwin.tar.gz](https://github.com/h5i-dev/h5i/releases/download/v0.5.1/h5i-recon-v0.5.1-aarch64-apple-darwin.tar.gz) | 2.0 MiB | `native/darwin/arm64` |
-| [h5i-recon-v0.5.1-aarch64-apple-darwin.tar.gz.sha256](https://github.com/h5i-dev/h5i/releases/download/v0.5.1/h5i-recon-v0.5.1-aarch64-apple-darwin.tar.gz.sha256) | 111 B | `native/darwin/arm64` |
-| [h5i-recon-v0.5.1-aarch64-unknown-linux-musl.tar.gz](https://github.com/h5i-dev/h5i/releases/download/v0.5.1/h5i-recon-v0.5.1-aarch64-unknown-linux-musl.tar.gz) | 1.9 MiB | `native/linux/arm64/musl` |
-| [h5i-recon-v0.5.1-aarch64-unknown-linux-musl.tar.gz.sha256](https://github.com/h5i-dev/h5i/releases/download/v0.5.1/h5i-recon-v0.5.1-aarch64-unknown-linux-musl.tar.gz.sha256) | 117 B | `native/linux/arm64/musl` |
-| [h5i-recon-v0.5.1-x86_64-pc-windows-msvc.zip](https://github.com/h5i-dev/h5i/releases/download/v0.5.1/h5i-recon-v0.5.1-x86_64-pc-windows-msvc.zip) | 3.1 MiB | `native/win/x64` |
-| [h5i-recon-v0.5.1-x86_64-pc-windows-msvc.zip.sha256](https://github.com/h5i-dev/h5i/releases/download/v0.5.1/h5i-recon-v0.5.1-x86_64-pc-windows-msvc.zip.sha256) | 111 B | `native/win/x64` |
-| [h5i-recon-v0.5.1-x86_64-unknown-linux-musl.tar.gz](https://github.com/h5i-dev/h5i/releases/download/v0.5.1/h5i-recon-v0.5.1-x86_64-unknown-linux-musl.tar.gz) | 2.0 MiB | `native/linux/x64/musl` |
-| [h5i-recon-v0.5.1-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/h5i-dev/h5i/releases/download/v0.5.1/h5i-recon-v0.5.1-x86_64-unknown-linux-musl.tar.gz.sha256) | 116 B | `native/linux/x64/musl` |
-| [h5i-test-v0.5.1-aarch64-apple-darwin.tar.gz](https://github.com/h5i-dev/h5i/releases/download/v0.5.1/h5i-test-v0.5.1-aarch64-apple-darwin.tar.gz) | 1.8 MiB | `native/darwin/arm64` |
-| [h5i-test-v0.5.1-aarch64-apple-darwin.tar.gz.sha256](https://github.com/h5i-dev/h5i/releases/download/v0.5.1/h5i-test-v0.5.1-aarch64-apple-darwin.tar.gz.sha256) | 110 B | `native/darwin/arm64` |
-| [h5i-test-v0.5.1-aarch64-unknown-linux-musl.tar.gz](https://github.com/h5i-dev/h5i/releases/download/v0.5.1/h5i-test-v0.5.1-aarch64-unknown-linux-musl.tar.gz) | 1.7 MiB | `native/linux/arm64/musl` |
-| [h5i-test-v0.5.1-aarch64-unknown-linux-musl.tar.gz.sha256](https://github.com/h5i-dev/h5i/releases/download/v0.5.1/h5i-test-v0.5.1-aarch64-unknown-linux-musl.tar.gz.sha256) | 116 B | `native/linux/arm64/musl` |
-| [h5i-test-v0.5.1-x86_64-pc-windows-msvc.zip](https://github.com/h5i-dev/h5i/releases/download/v0.5.1/h5i-test-v0.5.1-x86_64-pc-windows-msvc.zip) | 2.9 MiB | `native/win/x64` |
-| [h5i-test-v0.5.1-x86_64-pc-windows-msvc.zip.sha256](https://github.com/h5i-dev/h5i/releases/download/v0.5.1/h5i-test-v0.5.1-x86_64-pc-windows-msvc.zip.sha256) | 110 B | `native/win/x64` |
-| [h5i-test-v0.5.1-x86_64-unknown-linux-musl.tar.gz](https://github.com/h5i-dev/h5i/releases/download/v0.5.1/h5i-test-v0.5.1-x86_64-unknown-linux-musl.tar.gz) | 1.8 MiB | `native/linux/x64/musl` |
-| [h5i-test-v0.5.1-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/h5i-dev/h5i/releases/download/v0.5.1/h5i-test-v0.5.1-x86_64-unknown-linux-musl.tar.gz.sha256) | 115 B | `native/linux/x64/musl` |
-| [h5i-v0.5.1-aarch64-apple-darwin.tar.gz](https://github.com/h5i-dev/h5i/releases/download/v0.5.1/h5i-v0.5.1-aarch64-apple-darwin.tar.gz) | 11.0 MiB | `native/darwin/arm64` |
-| [h5i-v0.5.1-aarch64-apple-darwin.tar.gz.sha256](https://github.com/h5i-dev/h5i/releases/download/v0.5.1/h5i-v0.5.1-aarch64-apple-darwin.tar.gz.sha256) | 105 B | `native/darwin/arm64` |
-| [h5i-v0.5.1-aarch64-unknown-linux-musl.tar.gz](https://github.com/h5i-dev/h5i/releases/download/v0.5.1/h5i-v0.5.1-aarch64-unknown-linux-musl.tar.gz) | 12.2 MiB | `native/linux/arm64/musl` |
-| [h5i-v0.5.1-aarch64-unknown-linux-musl.tar.gz.sha256](https://github.com/h5i-dev/h5i/releases/download/v0.5.1/h5i-v0.5.1-aarch64-unknown-linux-musl.tar.gz.sha256) | 111 B | `native/linux/arm64/musl` |
-| [h5i-v0.5.1-x86_64-pc-windows-msvc.zip](https://github.com/h5i-dev/h5i/releases/download/v0.5.1/h5i-v0.5.1-x86_64-pc-windows-msvc.zip) | 11.0 MiB | `native/win/x64` |
-| [h5i-v0.5.1-x86_64-pc-windows-msvc.zip.sha256](https://github.com/h5i-dev/h5i/releases/download/v0.5.1/h5i-v0.5.1-x86_64-pc-windows-msvc.zip.sha256) | 105 B | `native/win/x64` |
-| [h5i-v0.5.1-x86_64-unknown-linux-musl.tar.gz](https://github.com/h5i-dev/h5i/releases/download/v0.5.1/h5i-v0.5.1-x86_64-unknown-linux-musl.tar.gz) | 12.8 MiB | `native/linux/x64/musl` |
-| [h5i-v0.5.1-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/h5i-dev/h5i/releases/download/v0.5.1/h5i-v0.5.1-x86_64-unknown-linux-musl.tar.gz.sha256) | 110 B | `native/linux/x64/musl` |
-| [h5i-websec-v0.5.1-aarch64-apple-darwin.tar.gz](https://github.com/h5i-dev/h5i/releases/download/v0.5.1/h5i-websec-v0.5.1-aarch64-apple-darwin.tar.gz) | 3.0 MiB | `native/darwin/arm64` |
-| [h5i-websec-v0.5.1-aarch64-apple-darwin.tar.gz.sha256](https://github.com/h5i-dev/h5i/releases/download/v0.5.1/h5i-websec-v0.5.1-aarch64-apple-darwin.tar.gz.sha256) | 112 B | `native/darwin/arm64` |
-| [h5i-websec-v0.5.1-aarch64-unknown-linux-musl.tar.gz](https://github.com/h5i-dev/h5i/releases/download/v0.5.1/h5i-websec-v0.5.1-aarch64-unknown-linux-musl.tar.gz) | 3.0 MiB | `native/linux/arm64/musl` |
-| [h5i-websec-v0.5.1-aarch64-unknown-linux-musl.tar.gz.sha256](https://github.com/h5i-dev/h5i/releases/download/v0.5.1/h5i-websec-v0.5.1-aarch64-unknown-linux-musl.tar.gz.sha256) | 118 B | `native/linux/arm64/musl` |
-| [h5i-websec-v0.5.1-x86_64-pc-windows-msvc.zip](https://github.com/h5i-dev/h5i/releases/download/v0.5.1/h5i-websec-v0.5.1-x86_64-pc-windows-msvc.zip) | 4.1 MiB | `native/win/x64` |
-| [h5i-websec-v0.5.1-x86_64-pc-windows-msvc.zip.sha256](https://github.com/h5i-dev/h5i/releases/download/v0.5.1/h5i-websec-v0.5.1-x86_64-pc-windows-msvc.zip.sha256) | 112 B | `native/win/x64` |
-| [h5i-websec-v0.5.1-x86_64-unknown-linux-musl.tar.gz](https://github.com/h5i-dev/h5i/releases/download/v0.5.1/h5i-websec-v0.5.1-x86_64-unknown-linux-musl.tar.gz) | 3.1 MiB | `native/linux/x64/musl` |
-| [h5i-websec-v0.5.1-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/h5i-dev/h5i/releases/download/v0.5.1/h5i-websec-v0.5.1-x86_64-unknown-linux-musl.tar.gz.sha256) | 117 B | `native/linux/x64/musl` |
+| [h5i-recon-v0.5.2-aarch64-apple-darwin.tar.gz](https://github.com/h5i-dev/h5i/releases/download/v0.5.2/h5i-recon-v0.5.2-aarch64-apple-darwin.tar.gz) | 2.0 MiB | `native/darwin/arm64` |
+| [h5i-recon-v0.5.2-aarch64-apple-darwin.tar.gz.sha256](https://github.com/h5i-dev/h5i/releases/download/v0.5.2/h5i-recon-v0.5.2-aarch64-apple-darwin.tar.gz.sha256) | 111 B | `native/darwin/arm64` |
+| [h5i-recon-v0.5.2-aarch64-unknown-linux-musl.tar.gz](https://github.com/h5i-dev/h5i/releases/download/v0.5.2/h5i-recon-v0.5.2-aarch64-unknown-linux-musl.tar.gz) | 1.9 MiB | `native/linux/arm64/musl` |
+| [h5i-recon-v0.5.2-aarch64-unknown-linux-musl.tar.gz.sha256](https://github.com/h5i-dev/h5i/releases/download/v0.5.2/h5i-recon-v0.5.2-aarch64-unknown-linux-musl.tar.gz.sha256) | 117 B | `native/linux/arm64/musl` |
+| [h5i-recon-v0.5.2-x86_64-pc-windows-msvc.zip](https://github.com/h5i-dev/h5i/releases/download/v0.5.2/h5i-recon-v0.5.2-x86_64-pc-windows-msvc.zip) | 3.1 MiB | `native/win/x64` |
+| [h5i-recon-v0.5.2-x86_64-pc-windows-msvc.zip.sha256](https://github.com/h5i-dev/h5i/releases/download/v0.5.2/h5i-recon-v0.5.2-x86_64-pc-windows-msvc.zip.sha256) | 111 B | `native/win/x64` |
+| [h5i-recon-v0.5.2-x86_64-unknown-linux-musl.tar.gz](https://github.com/h5i-dev/h5i/releases/download/v0.5.2/h5i-recon-v0.5.2-x86_64-unknown-linux-musl.tar.gz) | 2.0 MiB | `native/linux/x64/musl` |
+| [h5i-recon-v0.5.2-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/h5i-dev/h5i/releases/download/v0.5.2/h5i-recon-v0.5.2-x86_64-unknown-linux-musl.tar.gz.sha256) | 116 B | `native/linux/x64/musl` |
+| [h5i-test-v0.5.2-aarch64-apple-darwin.tar.gz](https://github.com/h5i-dev/h5i/releases/download/v0.5.2/h5i-test-v0.5.2-aarch64-apple-darwin.tar.gz) | 1.8 MiB | `native/darwin/arm64` |
+| [h5i-test-v0.5.2-aarch64-apple-darwin.tar.gz.sha256](https://github.com/h5i-dev/h5i/releases/download/v0.5.2/h5i-test-v0.5.2-aarch64-apple-darwin.tar.gz.sha256) | 110 B | `native/darwin/arm64` |
+| [h5i-test-v0.5.2-aarch64-unknown-linux-musl.tar.gz](https://github.com/h5i-dev/h5i/releases/download/v0.5.2/h5i-test-v0.5.2-aarch64-unknown-linux-musl.tar.gz) | 1.7 MiB | `native/linux/arm64/musl` |
+| [h5i-test-v0.5.2-aarch64-unknown-linux-musl.tar.gz.sha256](https://github.com/h5i-dev/h5i/releases/download/v0.5.2/h5i-test-v0.5.2-aarch64-unknown-linux-musl.tar.gz.sha256) | 116 B | `native/linux/arm64/musl` |
+| [h5i-test-v0.5.2-x86_64-pc-windows-msvc.zip](https://github.com/h5i-dev/h5i/releases/download/v0.5.2/h5i-test-v0.5.2-x86_64-pc-windows-msvc.zip) | 2.9 MiB | `native/win/x64` |
+| [h5i-test-v0.5.2-x86_64-pc-windows-msvc.zip.sha256](https://github.com/h5i-dev/h5i/releases/download/v0.5.2/h5i-test-v0.5.2-x86_64-pc-windows-msvc.zip.sha256) | 110 B | `native/win/x64` |
+| [h5i-test-v0.5.2-x86_64-unknown-linux-musl.tar.gz](https://github.com/h5i-dev/h5i/releases/download/v0.5.2/h5i-test-v0.5.2-x86_64-unknown-linux-musl.tar.gz) | 1.8 MiB | `native/linux/x64/musl` |
+| [h5i-test-v0.5.2-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/h5i-dev/h5i/releases/download/v0.5.2/h5i-test-v0.5.2-x86_64-unknown-linux-musl.tar.gz.sha256) | 115 B | `native/linux/x64/musl` |
+| [h5i-v0.5.2-aarch64-apple-darwin.tar.gz](https://github.com/h5i-dev/h5i/releases/download/v0.5.2/h5i-v0.5.2-aarch64-apple-darwin.tar.gz) | 11.2 MiB | `native/darwin/arm64` |
+| [h5i-v0.5.2-aarch64-apple-darwin.tar.gz.sha256](https://github.com/h5i-dev/h5i/releases/download/v0.5.2/h5i-v0.5.2-aarch64-apple-darwin.tar.gz.sha256) | 105 B | `native/darwin/arm64` |
+| [h5i-v0.5.2-aarch64-unknown-linux-musl.tar.gz](https://github.com/h5i-dev/h5i/releases/download/v0.5.2/h5i-v0.5.2-aarch64-unknown-linux-musl.tar.gz) | 12.4 MiB | `native/linux/arm64/musl` |
+| [h5i-v0.5.2-aarch64-unknown-linux-musl.tar.gz.sha256](https://github.com/h5i-dev/h5i/releases/download/v0.5.2/h5i-v0.5.2-aarch64-unknown-linux-musl.tar.gz.sha256) | 111 B | `native/linux/arm64/musl` |
+| [h5i-v0.5.2-x86_64-pc-windows-msvc.zip](https://github.com/h5i-dev/h5i/releases/download/v0.5.2/h5i-v0.5.2-x86_64-pc-windows-msvc.zip) | 11.2 MiB | `native/win/x64` |
+| [h5i-v0.5.2-x86_64-pc-windows-msvc.zip.sha256](https://github.com/h5i-dev/h5i/releases/download/v0.5.2/h5i-v0.5.2-x86_64-pc-windows-msvc.zip.sha256) | 105 B | `native/win/x64` |
+| [h5i-v0.5.2-x86_64-unknown-linux-musl.tar.gz](https://github.com/h5i-dev/h5i/releases/download/v0.5.2/h5i-v0.5.2-x86_64-unknown-linux-musl.tar.gz) | 12.9 MiB | `native/linux/x64/musl` |
+| [h5i-v0.5.2-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/h5i-dev/h5i/releases/download/v0.5.2/h5i-v0.5.2-x86_64-unknown-linux-musl.tar.gz.sha256) | 110 B | `native/linux/x64/musl` |
+| [h5i-websec-v0.5.2-aarch64-apple-darwin.tar.gz](https://github.com/h5i-dev/h5i/releases/download/v0.5.2/h5i-websec-v0.5.2-aarch64-apple-darwin.tar.gz) | 3.0 MiB | `native/darwin/arm64` |
+| [h5i-websec-v0.5.2-aarch64-apple-darwin.tar.gz.sha256](https://github.com/h5i-dev/h5i/releases/download/v0.5.2/h5i-websec-v0.5.2-aarch64-apple-darwin.tar.gz.sha256) | 112 B | `native/darwin/arm64` |
+| [h5i-websec-v0.5.2-aarch64-unknown-linux-musl.tar.gz](https://github.com/h5i-dev/h5i/releases/download/v0.5.2/h5i-websec-v0.5.2-aarch64-unknown-linux-musl.tar.gz) | 3.0 MiB | `native/linux/arm64/musl` |
+| [h5i-websec-v0.5.2-aarch64-unknown-linux-musl.tar.gz.sha256](https://github.com/h5i-dev/h5i/releases/download/v0.5.2/h5i-websec-v0.5.2-aarch64-unknown-linux-musl.tar.gz.sha256) | 118 B | `native/linux/arm64/musl` |
+| [h5i-websec-v0.5.2-x86_64-pc-windows-msvc.zip](https://github.com/h5i-dev/h5i/releases/download/v0.5.2/h5i-websec-v0.5.2-x86_64-pc-windows-msvc.zip) | 4.1 MiB | `native/win/x64` |
+| [h5i-websec-v0.5.2-x86_64-pc-windows-msvc.zip.sha256](https://github.com/h5i-dev/h5i/releases/download/v0.5.2/h5i-websec-v0.5.2-x86_64-pc-windows-msvc.zip.sha256) | 112 B | `native/win/x64` |
+| [h5i-websec-v0.5.2-x86_64-unknown-linux-musl.tar.gz](https://github.com/h5i-dev/h5i/releases/download/v0.5.2/h5i-websec-v0.5.2-x86_64-unknown-linux-musl.tar.gz) | 3.1 MiB | `native/linux/x64/musl` |
+| [h5i-websec-v0.5.2-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/h5i-dev/h5i/releases/download/v0.5.2/h5i-websec-v0.5.2-x86_64-unknown-linux-musl.tar.gz.sha256) | 117 B | `native/linux/x64/musl` |
 
 ## 改进这些数据
 
@@ -101,4 +101,4 @@ h5i 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261029.yml` · 2026-10-29T07:06:43Z._
+_数据快照: `data/card/261030.yml` · 2026-10-30T06:54:41Z._
