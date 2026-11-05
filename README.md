@@ -33,27 +33,27 @@ Total: **174,879** lines of code across **391** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.5.3` (2026-11-03)
-- **Last commit**: 2026-11-04
+- **Last commit**: 2026-11-05
 - **Assets in release**: 32
 
 ## Popularity
 
-- **Stars**: 888 · **Forks**: 78 · **Open issues**: 132 · **Contributors**: 25
+- **Stars**: 890 · **Forks**: 79 · **Open issues**: 132 · **Contributors**: 25
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 618 · **Open PRs**: 0 · **Closed issues**: 118 · **Open issues**: 14 · **Commits**: 775
+- **Releases**: 44 · **Merged PRs**: 621 · **Open PRs**: 0 · **Closed issues**: 118 · **Open issues**: 14 · **Commits**: 778
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 5 | 82 | 0 | 0 | 2 | 70 |
-| last60d | 2026-09-05 | 13 | 152 | 0 | 4 | 9 | 139 |
-| 90d | 2026-08-06 | 23 | 294 | 0 | 62 | 14 | 401 |
-| last180d | 2026-05-08 | 40 | 533 | 0 | 118 | 14 | 668 |
-| 360d | 2025-11-09 | 44 | 618 | 0 | 118 | 14 | 758 |
-| last720d | 2024-11-14 | 44 | 618 | 0 | 118 | 14 | 775 |
+| 30d | 2026-10-06 | 4 | 80 | 0 | 0 | 2 | 73 |
+| last60d | 2026-09-06 | 13 | 151 | 0 | 4 | 9 | 142 |
+| 90d | 2026-08-07 | 23 | 278 | 0 | 13 | 14 | 404 |
+| last180d | 2026-05-09 | 40 | 536 | 0 | 118 | 14 | 671 |
+| 360d | 2025-11-10 | 44 | 621 | 0 | 118 | 14 | 761 |
+| last720d | 2024-11-15 | 44 | 621 | 0 | 118 | 14 | 778 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for h5i lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:39:45Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:55:01Z._
