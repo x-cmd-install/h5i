@@ -14,13 +14,13 @@ x install h5i
 
 ## Code insight
 
-Total: **174,879** lines of code across **391** files in the top 5 languages.
+Total: **192,042** lines of code across **441** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 107,703 | 8,478 | 9,485 | 238 |
-| Lean | 28,287 | 5,180 | 3,859 | 109 |
-| Json | 12,248 | 0 | 0 | 21 |
+| Rust | 116,391 | 8,767 | 10,195 | 267 |
+| Lean | 35,759 | 6,521 | 4,804 | 127 |
+| Json | 12,612 | 0 | 0 | 24 |
 | Tsx | 6,454 | 238 | 261 | 16 |
 | Css | 5,961 | 272 | 208 | 7 |
 
@@ -38,22 +38,22 @@ Total: **174,879** lines of code across **391** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 890 · **Forks**: 79 · **Open issues**: 132 · **Contributors**: 25
+- **Stars**: 895 · **Forks**: 79 · **Open issues**: 132 · **Contributors**: 25
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 621 · **Open PRs**: 0 · **Closed issues**: 118 · **Open issues**: 14 · **Commits**: 778
+- **Releases**: 44 · **Merged PRs**: 627 · **Open PRs**: 1 · **Closed issues**: 118 · **Open issues**: 14 · **Commits**: 784
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 4 | 80 | 0 | 0 | 2 | 73 |
-| last60d | 2026-09-06 | 13 | 151 | 0 | 4 | 9 | 142 |
-| 90d | 2026-08-07 | 23 | 278 | 0 | 13 | 14 | 404 |
-| last180d | 2026-05-09 | 40 | 536 | 0 | 118 | 14 | 671 |
-| 360d | 2025-11-10 | 44 | 621 | 0 | 118 | 14 | 761 |
-| last720d | 2024-11-15 | 44 | 621 | 0 | 118 | 14 | 778 |
+| 30d | 2026-10-07 | 4 | 84 | 1 | 0 | 2 | 79 |
+| last60d | 2026-09-07 | 12 | 154 | 1 | 4 | 9 | 148 |
+| 90d | 2026-08-08 | 21 | 276 | 1 | 13 | 14 | 410 |
+| last180d | 2026-05-10 | 40 | 542 | 1 | 118 | 14 | 677 |
+| 360d | 2025-11-11 | 44 | 627 | 1 | 118 | 14 | 767 |
+| last720d | 2024-11-16 | 44 | 627 | 1 | 118 | 14 | 784 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for h5i lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T07:55:01Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T08:02:07Z._
