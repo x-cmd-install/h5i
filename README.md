@@ -2,7 +2,7 @@
 
 [中文版本](./README.cn.md)
 
-An Axum-based Rust web framework for building and verifying web apps with Lean 4, featuring optional GPU acceleration and integrated development infrastructure for red-teaming and CI/CD.
+An Axum-based Rust web framework with Lean 4-verifiable application kernels that run on servers, bare-metal embedded devices, and GPUs, plus integrated security testing.
 
 [![x-cmd/install — h5i Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/h5i.svg)](https://x-cmd.com/install/h5i)
 
@@ -14,7 +14,7 @@ x install h5i
 
 ## Code insight
 
-Total: **192,042** lines of code across **441** files in the top 5 languages.
+Total: **192,215** lines of code across **441** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -22,7 +22,7 @@ Total: **192,042** lines of code across **441** files in the top 5 languages.
 | Lean | 35,759 | 6,521 | 4,804 | 127 |
 | Json | 12,612 | 0 | 0 | 24 |
 | Tsx | 6,454 | 238 | 261 | 16 |
-| Css | 5,961 | 272 | 208 | 7 |
+| Css | 6,143 | 275 | 208 | 7 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **192,042** lines of code across **441** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.5.4` (2026-11-06)
-- **Last commit**: 2026-11-06
+- **Last commit**: 2026-11-10
 - **Assets in release**: 32
 
 ## Popularity
 
-- **Stars**: 899 · **Forks**: 79 · **Open issues**: 132 · **Contributors**: 25
+- **Stars**: 915 · **Forks**: 80 · **Open issues**: 132 · **Contributors**: 25
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 629 · **Open PRs**: 0 · **Closed issues**: 128 · **Open issues**: 4 · **Commits**: 786
+- **Releases**: 45 · **Merged PRs**: 634 · **Open PRs**: 1 · **Closed issues**: 128 · **Open issues**: 4 · **Commits**: 791
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 4 | 76 | 0 | 0 | 2 | 81 |
-| last60d | 2026-09-09 | 12 | 151 | 0 | 10 | 3 | 150 |
-| 90d | 2026-08-10 | 22 | 273 | 0 | 23 | 4 | 412 |
-| last180d | 2026-05-12 | 41 | 544 | 0 | 128 | 4 | 679 |
-| 360d | 2025-11-13 | 45 | 629 | 0 | 128 | 4 | 769 |
-| last720d | 2024-11-18 | 45 | 629 | 0 | 128 | 4 | 786 |
+| 30d | 2026-10-11 | 4 | 76 | 1 | 0 | 2 | 71 |
+| last60d | 2026-09-11 | 12 | 153 | 1 | 8 | 3 | 141 |
+| 90d | 2026-08-12 | 22 | 270 | 1 | 20 | 3 | 391 |
+| last180d | 2026-05-14 | 41 | 549 | 1 | 128 | 4 | 682 |
+| 360d | 2025-11-15 | 45 | 634 | 1 | 128 | 4 | 774 |
+| last720d | 2024-11-20 | 45 | 634 | 1 | 128 | 4 | 791 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for h5i lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T07:13:46Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T08:45:49Z._

@@ -2,7 +2,7 @@
 
 [English version](./README.md)
 
-An Axum-based Rust web framework for building and verifying web apps with Lean 4, featuring optional GPU acceleration and integrated development infrastructure for red-teaming and CI/CD.
+An Axum-based Rust web framework with Lean 4-verifiable application kernels that run on servers, bare-metal embedded devices, and GPUs, plus integrated security testing.
 
 [![x-cmd/install — h5i Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/h5i.svg?lang=zh)](https://x-cmd.com/install/h5i)
 
@@ -14,7 +14,7 @@ x install h5i
 
 ## 代码洞察
 
-合计: **192,042** 行代码（覆盖前 5 种语言、共 **441** 个文件）。
+合计: **192,215** 行代码（覆盖前 5 种语言、共 **441** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
@@ -22,7 +22,7 @@ x install h5i
 | Lean | 35,759 | 6,521 | 4,804 | 127 |
 | Json | 12,612 | 0 | 0 | 24 |
 | Tsx | 6,454 | 238 | 261 | 16 |
-| Css | 5,961 | 272 | 208 | 7 |
+| Css | 6,143 | 275 | 208 | 7 |
 
 ## 源代码
 
@@ -33,27 +33,27 @@ x install h5i
 ## 发布
 
 - **最新版本**: `v0.5.4` (2026-11-06)
-- **最近提交**: 2026-11-06
+- **最近提交**: 2026-11-10
 - **Release 含资产**: 32 个
 
 ## 流行度
 
-- **Star**: 899 · **Fork**: 79 · **开放 issue**: 132 · **贡献者**: 25
+- **Star**: 915 · **Fork**: 80 · **开放 issue**: 132 · **贡献者**: 25
 
 ## 累计统计
 
-- **发布数**: 45 · **已合并 PR**: 629 · **开放 PR**: 0 · **已关闭 issue**: 128 · **开放 issue**: 4 · **提交数**: 786
+- **发布数**: 45 · **已合并 PR**: 634 · **开放 PR**: 1 · **已关闭 issue**: 128 · **开放 issue**: 4 · **提交数**: 791
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 4 | 76 | 0 | 0 | 2 | 81 |
-| last60d | 2026-09-09 | 12 | 151 | 0 | 10 | 3 | 150 |
-| 90d | 2026-08-10 | 22 | 273 | 0 | 23 | 4 | 412 |
-| last180d | 2026-05-12 | 41 | 544 | 0 | 128 | 4 | 679 |
-| 360d | 2025-11-13 | 45 | 629 | 0 | 128 | 4 | 769 |
-| last720d | 2024-11-18 | 45 | 629 | 0 | 128 | 4 | 786 |
+| 30d | 2026-10-11 | 4 | 76 | 1 | 0 | 2 | 71 |
+| last60d | 2026-09-11 | 12 | 153 | 1 | 8 | 3 | 141 |
+| 90d | 2026-08-12 | 22 | 270 | 1 | 20 | 3 | 391 |
+| last180d | 2026-05-14 | 41 | 549 | 1 | 128 | 4 | 682 |
+| 360d | 2025-11-15 | 45 | 634 | 1 | 128 | 4 | 774 |
+| last720d | 2024-11-20 | 45 | 634 | 1 | 128 | 4 | 791 |
 
 ## Release 资产
 
@@ -101,4 +101,4 @@ h5i 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261108.yml` · 2026-11-08T07:13:47Z._
+_数据快照: `data/card/261110.yml` · 2026-11-10T08:45:50Z._
