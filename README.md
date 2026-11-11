@@ -14,12 +14,12 @@ x install h5i
 
 ## Code insight
 
-Total: **192,215** lines of code across **441** files in the top 5 languages.
+Total: **198,502** lines of code across **451** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 116,391 | 8,767 | 10,195 | 267 |
-| Lean | 35,759 | 6,521 | 4,804 | 127 |
+| Rust | 119,528 | 8,825 | 10,520 | 273 |
+| Lean | 38,731 | 6,874 | 5,063 | 131 |
 | Json | 12,612 | 0 | 0 | 24 |
 | Tsx | 6,454 | 238 | 261 | 16 |
 | Css | 6,143 | 275 | 208 | 7 |
@@ -42,18 +42,18 @@ Total: **192,215** lines of code across **441** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 634 · **Open PRs**: 1 · **Closed issues**: 128 · **Open issues**: 4 · **Commits**: 791
+- **Releases**: 45 · **Merged PRs**: 636 · **Open PRs**: 2 · **Closed issues**: 128 · **Open issues**: 4 · **Commits**: 793
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 4 | 76 | 1 | 0 | 2 | 71 |
-| last60d | 2026-09-11 | 12 | 153 | 1 | 8 | 3 | 141 |
-| 90d | 2026-08-12 | 22 | 270 | 1 | 20 | 3 | 391 |
-| last180d | 2026-05-14 | 41 | 549 | 1 | 128 | 4 | 682 |
-| 360d | 2025-11-15 | 45 | 634 | 1 | 128 | 4 | 774 |
-| last720d | 2024-11-20 | 45 | 634 | 1 | 128 | 4 | 791 |
+| 30d | 2026-10-12 | 4 | 73 | 2 | 0 | 2 | 73 |
+| last60d | 2026-09-12 | 11 | 154 | 2 | 8 | 3 | 143 |
+| 90d | 2026-08-13 | 22 | 269 | 2 | 19 | 3 | 393 |
+| last180d | 2026-05-15 | 41 | 549 | 2 | 128 | 4 | 684 |
+| 360d | 2025-11-16 | 45 | 636 | 2 | 128 | 4 | 776 |
+| last720d | 2024-11-21 | 45 | 636 | 2 | 128 | 4 | 793 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for h5i lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T08:45:49Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:17:43Z._
