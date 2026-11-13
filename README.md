@@ -33,27 +33,27 @@ Total: **200,692** lines of code across **457** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.5.5` (2026-11-12)
-- **Last commit**: 2026-11-12
+- **Last commit**: 2026-11-13
 - **Assets in release**: 32
 
 ## Popularity
 
-- **Stars**: 915 · **Forks**: 80 · **Open issues**: 132 · **Contributors**: 25
+- **Stars**: 920 · **Forks**: 80 · **Open issues**: 132 · **Contributors**: 25
 
 ## Totals (cumulative)
 
-- **Releases**: 46 · **Merged PRs**: 640 · **Open PRs**: 1 · **Closed issues**: 128 · **Open issues**: 4 · **Commits**: 797
+- **Releases**: 46 · **Merged PRs**: 641 · **Open PRs**: 1 · **Closed issues**: 128 · **Open issues**: 4 · **Commits**: 798
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 5 | 77 | 1 | 0 | 2 | 77 |
-| last60d | 2026-09-13 | 12 | 157 | 1 | 8 | 3 | 147 |
-| 90d | 2026-08-14 | 22 | 270 | 1 | 17 | 3 | 397 |
-| last180d | 2026-05-16 | 42 | 553 | 1 | 128 | 4 | 688 |
-| 360d | 2025-11-17 | 46 | 640 | 1 | 128 | 4 | 780 |
-| last720d | 2024-11-22 | 46 | 640 | 1 | 128 | 4 | 797 |
+| 30d | 2026-10-14 | 5 | 78 | 1 | 0 | 2 | 78 |
+| last60d | 2026-09-14 | 12 | 155 | 1 | 7 | 3 | 148 |
+| 90d | 2026-08-15 | 22 | 268 | 1 | 16 | 3 | 398 |
+| last180d | 2026-05-17 | 42 | 554 | 1 | 128 | 4 | 689 |
+| 360d | 2025-11-18 | 46 | 641 | 1 | 128 | 4 | 781 |
+| last720d | 2024-11-23 | 46 | 641 | 1 | 128 | 4 | 798 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for h5i lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T08:45:54Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T08:17:28Z._
