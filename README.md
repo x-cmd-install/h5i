@@ -14,11 +14,11 @@ x install h5i
 
 ## Code insight
 
-Total: **200,692** lines of code across **457** files in the top 5 languages.
+Total: **200,689** lines of code across **457** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 119,920 | 8,842 | 10,561 | 275 |
+| Rust | 119,917 | 8,842 | 10,561 | 275 |
 | Lean | 40,411 | 7,074 | 5,250 | 135 |
 | Json | 12,612 | 0 | 0 | 24 |
 | Tsx | 6,454 | 238 | 261 | 16 |
@@ -38,22 +38,22 @@ Total: **200,692** lines of code across **457** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 920 · **Forks**: 80 · **Open issues**: 132 · **Contributors**: 25
+- **Stars**: 924 · **Forks**: 81 · **Open issues**: 132 · **Contributors**: 25
 
 ## Totals (cumulative)
 
-- **Releases**: 46 · **Merged PRs**: 641 · **Open PRs**: 1 · **Closed issues**: 128 · **Open issues**: 4 · **Commits**: 798
+- **Releases**: 46 · **Merged PRs**: 642 · **Open PRs**: 1 · **Closed issues**: 128 · **Open issues**: 4 · **Commits**: 799
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 5 | 78 | 1 | 0 | 2 | 78 |
-| last60d | 2026-09-14 | 12 | 155 | 1 | 7 | 3 | 148 |
-| 90d | 2026-08-15 | 22 | 268 | 1 | 16 | 3 | 398 |
-| last180d | 2026-05-17 | 42 | 554 | 1 | 128 | 4 | 689 |
-| 360d | 2025-11-18 | 46 | 641 | 1 | 128 | 4 | 781 |
-| last720d | 2024-11-23 | 46 | 641 | 1 | 128 | 4 | 798 |
+| 30d | 2026-10-15 | 5 | 79 | 1 | 0 | 2 | 79 |
+| last60d | 2026-09-15 | 11 | 150 | 1 | 4 | 3 | 149 |
+| 90d | 2026-08-16 | 22 | 266 | 1 | 16 | 3 | 399 |
+| last180d | 2026-05-18 | 42 | 555 | 1 | 128 | 4 | 690 |
+| 360d | 2025-11-19 | 46 | 642 | 1 | 128 | 4 | 782 |
+| last720d | 2024-11-24 | 46 | 642 | 1 | 128 | 4 | 799 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for h5i lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T08:17:28Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T08:07:25Z._
