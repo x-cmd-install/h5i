@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 1879637,
       "digest": "sha256:d3dda9b1471069572e530f32b8a8193cf28e8f978db45cf8b11a04fc5c69e002",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-11-16T11:15:26Z",
       "updated_at": "2026-11-16T11:15:27Z",
       "browser_download_url": "https://github.com/h5i-dev/h5i/releases/download/v0.5.6/h5i-test-v0.5.6-x86_64-unknown-linux-musl.tar.gz"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 14199906,
       "digest": "sha256:c5937ef0841056431702ee19ab2dcbca30a85b87a54df33cda3b1eecd64cbef4",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-11-16T11:15:26Z",
       "updated_at": "2026-11-16T11:15:27Z",
       "browser_download_url": "https://github.com/h5i-dev/h5i/releases/download/v0.5.6/h5i-v0.5.6-x86_64-unknown-linux-musl.tar.gz"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 110,
       "digest": "sha256:08e37d18e04c36d71aa27ae769f41f20acb6d53d0afcf9b159fb5e10c9d434fa",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-16T11:15:26Z",
       "updated_at": "2026-11-16T11:15:26Z",
       "browser_download_url": "https://github.com/h5i-dev/h5i/releases/download/v0.5.6/h5i-v0.5.6-x86_64-unknown-linux-musl.tar.gz.sha256"
