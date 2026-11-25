@@ -38,22 +38,22 @@ Total: **204,968** lines of code across **463** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 986 · **Forks**: 84 · **Open issues**: 133 · **Contributors**: 25
+- **Stars**: 1,002 · **Forks**: 84 · **Open issues**: 133 · **Contributors**: 25
 
 ## Totals (cumulative)
 
-- **Releases**: 47 · **Merged PRs**: 660 · **Open PRs**: 1 · **Closed issues**: 128 · **Open issues**: 5 · **Commits**: 817
+- **Releases**: 47 · **Merged PRs**: 660 · **Open PRs**: 2 · **Closed issues**: 128 · **Open issues**: 5 · **Commits**: 817
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 5 | 62 | 1 | 0 | 1 | 57 |
-| last60d | 2026-09-25 | 11 | 148 | 1 | 3 | 4 | 140 |
-| 90d | 2026-08-26 | 20 | 250 | 1 | 16 | 4 | 351 |
-| last180d | 2026-05-28 | 42 | 567 | 1 | 128 | 5 | 694 |
-| 360d | 2025-11-29 | 47 | 660 | 1 | 128 | 5 | 800 |
-| last720d | 2024-12-04 | 47 | 660 | 1 | 128 | 5 | 817 |
+| 30d | 2026-10-26 | 5 | 61 | 2 | 0 | 1 | 57 |
+| last60d | 2026-09-26 | 10 | 145 | 2 | 0 | 4 | 140 |
+| 90d | 2026-08-27 | 19 | 237 | 2 | 16 | 4 | 351 |
+| last180d | 2026-05-29 | 42 | 565 | 2 | 128 | 5 | 694 |
+| 360d | 2025-11-30 | 47 | 660 | 2 | 128 | 5 | 800 |
+| last720d | 2024-12-05 | 47 | 660 | 2 | 128 | 5 | 817 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for h5i lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:18:46Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:48:37Z._
