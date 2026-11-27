@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 2109402,
       "digest": "sha256:9de461f6853290cb46af113daadd0c605336b60f45d3649549e800fbad7765b2",
-      "download_count": 13,
+      "download_count": 15,
       "created_at": "2026-11-16T11:15:26Z",
       "updated_at": "2026-11-16T11:15:27Z",
       "browser_download_url": "https://github.com/h5i-dev/h5i/releases/download/v0.5.6/h5i-recon-v0.5.6-x86_64-unknown-linux-musl.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 116,
       "digest": "sha256:cb1bcfcc82af4be61942c878bb41b4e41f6540054ca1b27eb7b4a7053ca3eca7",
-      "download_count": 11,
+      "download_count": 13,
       "created_at": "2026-11-16T11:15:26Z",
       "updated_at": "2026-11-16T11:15:27Z",
       "browser_download_url": "https://github.com/h5i-dev/h5i/releases/download/v0.5.6/h5i-recon-v0.5.6-x86_64-unknown-linux-musl.tar.gz.sha256"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 1879637,
       "digest": "sha256:d3dda9b1471069572e530f32b8a8193cf28e8f978db45cf8b11a04fc5c69e002",
-      "download_count": 20,
+      "download_count": 23,
       "created_at": "2026-11-16T11:15:26Z",
       "updated_at": "2026-11-16T11:15:27Z",
       "browser_download_url": "https://github.com/h5i-dev/h5i/releases/download/v0.5.6/h5i-test-v0.5.6-x86_64-unknown-linux-musl.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 115,
       "digest": "sha256:a2c3715c3aeb075dd7cb8938de9ebc3775a07d889d86b4e7156d24d9f076f9c4",
-      "download_count": 11,
+      "download_count": 13,
       "created_at": "2026-11-16T11:15:26Z",
       "updated_at": "2026-11-16T11:15:26Z",
       "browser_download_url": "https://github.com/h5i-dev/h5i/releases/download/v0.5.6/h5i-test-v0.5.6-x86_64-unknown-linux-musl.tar.gz.sha256"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 14199906,
       "digest": "sha256:c5937ef0841056431702ee19ab2dcbca30a85b87a54df33cda3b1eecd64cbef4",
-      "download_count": 24,
+      "download_count": 26,
       "created_at": "2026-11-16T11:15:26Z",
       "updated_at": "2026-11-16T11:15:27Z",
       "browser_download_url": "https://github.com/h5i-dev/h5i/releases/download/v0.5.6/h5i-v0.5.6-x86_64-unknown-linux-musl.tar.gz"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 110,
       "digest": "sha256:08e37d18e04c36d71aa27ae769f41f20acb6d53d0afcf9b159fb5e10c9d434fa",
-      "download_count": 15,
+      "download_count": 17,
       "created_at": "2026-11-16T11:15:26Z",
       "updated_at": "2026-11-16T11:15:26Z",
       "browser_download_url": "https://github.com/h5i-dev/h5i/releases/download/v0.5.6/h5i-v0.5.6-x86_64-unknown-linux-musl.tar.gz.sha256"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 3236392,
       "digest": "sha256:0f98bcf9dc52b7b744980d9b4a8b4ba845195f84b490e2f4c2277b513b77d3d2",
-      "download_count": 13,
+      "download_count": 15,
       "created_at": "2026-11-16T11:15:26Z",
       "updated_at": "2026-11-16T11:15:27Z",
       "browser_download_url": "https://github.com/h5i-dev/h5i/releases/download/v0.5.6/h5i-websec-v0.5.6-x86_64-unknown-linux-musl.tar.gz"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 117,
       "digest": "sha256:c707b4fd3fe31c3af241610ab54fb893956a3376c1136a0c732fdc70206dc1a9",
-      "download_count": 11,
+      "download_count": 13,
       "created_at": "2026-11-16T11:15:26Z",
       "updated_at": "2026-11-16T11:15:26Z",
       "browser_download_url": "https://github.com/h5i-dev/h5i/releases/download/v0.5.6/h5i-websec-v0.5.6-x86_64-unknown-linux-musl.tar.gz.sha256"
