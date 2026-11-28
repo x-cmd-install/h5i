@@ -1,0 +1,187 @@
+about:
+  description: "An Axum-based Rust web framework with Lean 4-verifiable application kernels that run on servers, bare-metal embedded devices, and GPUs, plus integrated security testing."
+  license: Apache-2.0
+  homepage: https://h5i.dev
+  head: 2477f02
+  archived: false
+  latestVersion: "v0.5.7"
+  latestRelease: "v0.5.7"
+  latestPrerelease: ""
+  collectedAt: 2026-11-28T09:25:38Z
+timeline:
+  created: 2026-03-11
+  lastCommit: 2026-11-27
+  lastVersion: 2026-11-28
+  lastRelease: 2026-11-28
+  lastPrerelease: 
+popularity:
+  star: 1028
+  watcher: 3
+  fork: 84
+  release: 48
+  contributor: 25
+  pullRequest: 699
+  issue: 133
+language:
+  Rust: 6020253
+  Lean: 1540916
+  TypeScript: 307632
+  Shell: 90065
+  CSS: 76315
+  Python: 62592
+  HTML: 31413
+  JavaScript: 13801
+totalBytes: 8142987
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 6
+    mergedPR: 62
+    openPR: 1
+    closedIssue: 0
+    openIssue: 1
+    commit: 64
+  last60d:
+    since: 2026-09-29
+    release: 10
+    mergedPR: 147
+    openPR: 1
+    closedIssue: 0
+    openIssue: 3
+    commit: 147
+  last90d:
+    since: 2026-08-30
+    release: 19
+    mergedPR: 227
+    openPR: 1
+    closedIssue: 15
+    openIssue: 4
+    commit: 358
+  last180d:
+    since: 2026-06-01
+    release: 41
+    mergedPR: 568
+    openPR: 1
+    closedIssue: 128
+    openIssue: 5
+    commit: 701
+  last360d:
+    since: 2025-12-03
+    release: 48
+    mergedPR: 667
+    openPR: 1
+    closedIssue: 128
+    openIssue: 5
+    commit: 807
+  last720d:
+    since: 2024-12-08
+    release: 48
+    mergedPR: 667
+    openPR: 1
+    closedIssue: 128
+    openIssue: 5
+    commit: 824
+total:
+  release: 48
+  mergedPR: 667
+  openPR: 1
+  closedIssue: 128
+  openIssue: 5
+  commit: 824
+---
+path: /home/runner/.x-repo/github.com/h5i-dev/h5i
+collectedAt: 2026-11-28T09:25:45Z
+loc:
+  Rust:
+    code: 123715
+    comments: 8939
+    blanks: 10850
+    files: 281
+  Lean:
+    code: 47763
+    comments: 8013
+    blanks: 5732
+    files: 152
+  Json:
+    code: 13596
+    comments: 0
+    blanks: 0
+    files: 29
+  Tsx:
+    code: 6454
+    comments: 238
+    blanks: 261
+    files: 16
+  Css:
+    code: 6402
+    comments: 292
+    blanks: 219
+    files: 8
+  Python:
+    code: 5322
+    comments: 310
+    blanks: 729
+    files: 22
+  Html:
+    code: 5028
+    comments: 37
+    blanks: 55
+    files: 92
+  TypeScript:
+    code: 1947
+    comments: 76
+    blanks: 117
+    files: 9
+  Sh:
+    code: 1722
+    comments: 392
+    blanks: 163
+    files: 27
+  Toml:
+    code: 1645
+    comments: 369
+    blanks: 212
+    files: 74
+  JavaScript:
+    code: 1561
+    comments: 198
+    blanks: 94
+    files: 10
+  Svg:
+    code: 599
+    comments: 32
+    blanks: 36
+    files: 14
+  Yaml:
+    code: 199
+    comments: 0
+    blanks: 14
+    files: 5
+  Xml:
+    code: 41
+    comments: 0
+    blanks: 0
+    files: 2
+  Alex:
+    code: 12
+    comments: 0
+    blanks: 0
+    files: 2
+  Markdown:
+    code: 0
+    comments: 10071
+    blanks: 2608
+    files: 81
+  Text:
+    code: 0
+    comments: 80
+    blanks: 25
+    files: 3
+total:
+  code: 221606
+  comments: 44221
+  blanks: 22258
+  files: 827
+---
+
+---
